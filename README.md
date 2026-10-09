@@ -28,15 +28,15 @@ nitin/
 
 ### Selected projects
 
-**[LedgerFlow] — AI-assisted invoice review for Indian accounting teams.
+**LedgerFlow** — AI-assisted invoice review for Indian accounting teams.
 
-**[Ecovetter]** — an explainable, end-to-end exoplanet transit detection and vetting system.
+**Ecovetter** — an explainable, end-to-end exoplanet transit detection and vetting system.
 
-**[AirPulse]** — a Streamlit app that analyzes current AQI across regions of the country and delivers insights with future predictions.
+**AirPulse** — a Streamlit app that analyzes current AQI across regions of the country and delivers insights with future predictions.
 
-**[AtmoPredict]** — an intelligent weather prediction system using LSTM deep learning to forecast extreme weather conditions with NASA POWER data.
+**AtmoPredict** — an intelligent weather prediction system using LSTM deep learning to forecast extreme weather conditions with NASA POWER data.
 
-**[SonicPersona]** — AI that learns a person's vocal identity. Fine-tunes a personalized TTS voice with LoRA adapters on XTTS-v2: converts user audio into a training set, auto-transcribes with Whisper, trains a memory-efficient adapter, and serves real-time inference through a Gradio UI.
+**SonicPersona** — AI that learns a person's vocal identity. Fine-tunes a personalized TTS voice with LoRA adapters on XTTS-v2: converts user audio into a training set, auto-transcribes with Whisper, trains a memory-efficient adapter, and serves real-time inference through a Gradio UI.
 
 ---
 
