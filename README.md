@@ -6,8 +6,8 @@ I work on the layer between a model and something people can actually use - retr
 
 ### Building Logorhythms — the journey from a team to enterprise
 
-- **[Logorhythms Studio](https://logorhythms.studio)** — the studio, in progress
-- **[Docuverse](https://logorhythms.in)** — launched
+- **[Logorhythms Studio](https://logorhythms.studio)** - the studio, in progress
+- **[Docuverse](https://logorhythms.in)** - launched
 
 ### Elsewhere
 
