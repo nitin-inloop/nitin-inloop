@@ -4,7 +4,7 @@ Hey, I'm Nitin - a 20-year-old developer exploring, building, and shipping real-
 
 I work on the layer between a model and something people can actually use - retrieval that returns the right chunk, agents that know when to stop, models tuned for the job.
 
-### Building Logorhythms — the journey from a team to enterprise
+### Building Logorhythms - the journey from a team to enterprise
 
 - **[Logorhythms Studio](https://logorhythms.studio)** - the studio, in progress
 - **[Docuverse](https://logorhythms.in)** - launched
