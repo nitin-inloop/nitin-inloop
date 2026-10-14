@@ -16,7 +16,7 @@ I work on the layer between a model and something people can actually use - retr
 
 ---
 
-<sub>NASA Space Apps Challenge 2025 Regional Winner · OpenAI Builders Hackathon Finalist · 6× Hackathon Winner</sub>
+<sub>NASA Space Apps Challenge 2025 Regional Winner · OpenAI Builders Hackathon Finalist · 8× Hackathon Winner</sub>
 
 *Products before pitch decks.*
 ------
